@@ -1,0 +1,15 @@
+/* load the default Redmine stylesheet */
+@import url(../../../stylesheets/application.css);
+
+/* load the alternate theme stylesheet */
+@import url(../../alternate/stylesheets/application.css);
+
+/* Add by ice for x*/
+#top-menu{background:#2D2D2D;}
+#top-menu a{font-weight:bold; color:#d5d5d5;}
+#header { 
+	padding: 4px 8px 15px 6px;
+	background-color:#628DB6;
+}
+
+
